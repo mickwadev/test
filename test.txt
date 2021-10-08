@@ -1,1 +1,4 @@
-teścik
+void Test()
+{
+ return thisWorks;
+}
