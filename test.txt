@@ -1,4 +1,6 @@
 void Test()
 {
+ int k = 0;
+ k++;
  return thisWorks;
 }
