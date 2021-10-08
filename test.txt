@@ -2,3 +2,5 @@ void Test()
 {
  return thisWorks;
 }
+
+void Wróbelek() => ćwir ćwir
